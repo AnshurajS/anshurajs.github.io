@@ -5,7 +5,6 @@ description: Interactive database of exoplanets with filtering features for its 
 img: assets/img/12.jpg
 importance: 1
 category: work
-related_publications: true
 ---
 
 A single-page web application designed to visualize and explore exoplanet data. 
