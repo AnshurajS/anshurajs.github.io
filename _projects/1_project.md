@@ -4,7 +4,7 @@ title: Exoplanet Explorer
 description: Interactive database of exoplanets with filtering features for its size and distance from Earth!
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: Coursework
 ---
 
 A single-page web application designed to visualize and explore exoplanet data. 
