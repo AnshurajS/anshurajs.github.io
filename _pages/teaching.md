@@ -1,12 +1,18 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching experiences
+description: Peer tutoring and mentoring at Caldwell University.
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+Laboratory Instructional Assistant for General Physics II					        Jan. 2024 - Present
+Supported lab operations through instructional assistance, experimental preparation, student guidance, safety management, computational analysis and grading across thermodynamics, optics, waves and electromagnetism.
 
-Organize your courses by years, topics, or universities, however you like!
+Peer Tutor for Physics, Math and Computer Science					       	       Feb. 2023 - Present	
+Guided 100+ students through challenging physics, math and computer science concepts in 20+ courses including general physics (I, II), astronomy, calculus (I, II, III, IV), database management systems and linear algebra.
+
+Supplemental Instructor for Calculus I					  	                	   Aug. 2023 - Dec. 2024	
+Developed supplemental instruction sessions on challenging concepts, reflected and revised teaching skills such as redirecting questions, fostering collaboration, and ensuring understanding of the material for Calculus I.
+
