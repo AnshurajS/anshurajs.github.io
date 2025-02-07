@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: Teaching experiences
+title: teaching
 description: Peer tutoring and mentoring at Caldwell University.
 nav: true
 nav_order: 6
